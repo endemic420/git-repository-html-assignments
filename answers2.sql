@@ -1,0 +1,10 @@
+-- Step 1 create the database called demo 
+-- CREATE DATABASE DEMO;
+
+-- STEP 2 SELECT THE DATABASE TO STORE TABLES 
+-- USE DEMO;
+
+-- STEP 3 DELETE THE DATABASE DEMO 
+-- DROP DATABASE DEMO;
+
+
